@@ -1,4 +1,5 @@
 require('dotenv').config()
+
 const knex = require('knex')
 const ArticlesService = require('./articles-service')
 
